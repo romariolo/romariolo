@@ -1,6 +1,7 @@
 
 
-### Olá! Eu sou o Romário Lopes 🖐️
+### Olá! Eu sou o Romário Lopes 🖐️Donut Chart layout
+
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romário-lopes/)
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](romariodev.com)
@@ -10,7 +11,8 @@
 
 ![Romário Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=romariolo&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romariolo&demo_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romariolo&Donuthartlayout_progress=true)
+
 
 ## Tecnologias que eu uso
 
