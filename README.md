@@ -1,32 +1,32 @@
-# Olá, eu sou o Romário Lopes 👋
+# 👋 Olá, eu sou **Romário Lopes**
 
-### Full Stack Developer | AWS Certified Solutions Architect | Cloud & Serverless Specialist
+### 🚀 Full Stack Developer | AWS Certified Solutions Architect | Cloud & Serverless Specialist
 
-Sou um desenvolvedor apaixonado por construir soluções escaláveis e resilientes. Atualmente, foco no ecossistema JavaScript (Node/React/Next) integrado a arquiteturas Cloud Native na AWS. Transformo desafios complexos em software de alto impacto e performance.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-- **Linguagens:** TypeScript, JavaScript (ES6+), Python, Java, SQL.
-- **Frontend:** React.js, Next.js (SSR/Static), Vite, Tailwind CSS.
-- **Backend:** Node.js, Express, NestJS, Spring Boot.
-- **Cloud (AWS):** Lambda, S3, API Gateway, DynamoDB, CloudFront, Route 53, IAM.
-- **DevOps:** Terraform (IaC), Docker, GitHub Actions (CI/CD).
-- **Dados:** MySQL, PostgreSQL, MongoDB, Prisma ORM, Sequelize.
+Sou um desenvolvedor apaixonado por construir soluções **escaláveis e resilientes**. Atualmente, foco no ecossistema **JavaScript (Node.js, React, Next.js)** integrado a **arquiteturas Cloud Native na AWS**. Transformo desafios complexos em software de alto impacto e performance.
 
 ---
 
-### 🏆 Certificações & Conquistas
+## 🛠️ Tecnologias & Ferramentas
 
-- ☁️ **AWS Certified Solutions Architect – Associate**
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🤖 **NVIDIA Certified AI Fundamentals**
-- 📊 **Data Science Specialist** (Capacita Brasil)
+- **Linguagens:** TypeScript, JavaScript (ES6+), Python, Java, SQL  
+- **Frontend:** React.js, Next.js (SSR/Static), Vite, Tailwind CSS  
+- **Backend:** Node.js, Express, NestJS, Spring Boot  
+- **Cloud (AWS):** Lambda, S3, API Gateway, DynamoDB, CloudFront, Route 53, IAM  
+- **DevOps:** Terraform (IaC), Docker, GitHub Actions (CI/CD)  
+- **Banco de Dados:** MySQL, PostgreSQL, MongoDB, Prisma ORM, Sequelize  
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🏆 Certificações & Conquistas
+
+- ☁️ **AWS Certified Solutions Architect – Associate**  
+- ☁️ **AWS Certified Cloud Practitioner**  
+- 🤖 **NVIDIA Certified AI Fundamentals**  
+- 📊 **Data Science Specialist** (Capacita Brasil)  
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romariolo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
@@ -35,20 +35,23 @@ Sou um desenvolvedor apaixonado por construir soluções escaláveis e resilient
 
 ---
 
-### 🏗️ Featured Architectures & Case Studies
+## 🏗️ Projetos & Arquiteturas em Destaque
 
-- **LegalTech SaaS (Automated Tax Exemptions):** Architected a serverless pipeline to automate fiscal document generation for vehicle tax exemptions. 
-  **Stack:** Next.js, Node.js, AWS Lambda, S3, and DynamoDB.
-  **Impact:** Reduced data processing time by 80% and eliminated manual documentation errors.
+### ⚖️ LegalTech SaaS – Automação de Isenções Fiscais
+- **Stack:** Next.js, Node.js, AWS Lambda, S3, DynamoDB  
+- **Impacto:** Redução de 80% no tempo de processamento e eliminação de erros manuais  
 
-- **Cloud Infrastructure (School Management System):** Design and deployment of a scalable, multi-tier environment using Infrastructure as Code.
-  **Stack:** Terraform, AWS (EC2, RDS, VPC, CloudFront).
-  **Outcome:** Fully automated provisioning with enhanced security protocols and global content delivery.
+### 🎓 Infraestrutura Cloud – Sistema de Gestão Escolar
+- **Stack:** Terraform, AWS (EC2, RDS, VPC, CloudFront)  
+- **Resultado:** Provisionamento automatizado, segurança reforçada e entrega global de conteúdo  
 
-- **AI-Driven Data Pipeline:** Developed a data processing engine for exploratory analysis and predictive modeling.
-  **Stack:** Python, Pandas, Scikit-Learn, AWS Glue.
+### 🤖 AI-Driven Data Pipeline
+- **Stack:** Python, Pandas, Scikit-Learn, AWS Glue  
+- **Objetivo:** Motor de processamento para análise exploratória e modelagem preditiva  
 
-### 📫 Conecte-se comigo
+---
+
+## 📫 Conecte-se comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/romario-lopes-dev" target="_blank">
@@ -64,4 +67,4 @@ Sou um desenvolvedor apaixonado por construir soluções escaláveis e resilient
 
 ---
 
-> "Transformando resiliência em soluções tecnológicas de alto impacto." ♿🚀
+> 💡 *"Transformando resiliência em soluções tecnológicas de alto impacto."* ♿🚀
