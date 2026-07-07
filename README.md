@@ -2,15 +2,15 @@
 
 ### 🚀 Engenheiro de Dados Cloud | Full Stack Developer | 3x AWS Certified
 
-Sou um profissional com forte atuação em arquiteturas Cloud Native na AWS e desenvolvimento Full Stack. Atualmente, tenho aprofundado minha experiência em Engenharia e Ciência de Dados, construindo pipelines automatizados, processos ETL/ELT e soluções serverless escaláveis. Transformo desafios complexos em sistemas seguros, performáticos e de alto impacto.
+Profissional certificado na AWS com forte atuação em ambientes de computação em nuvem, arquiteturas Cloud Native e soluções Full Stack. Atualmente, tenho aprofundado minha experiência em Ciência e Engenharia de Dados, construindo pipelines automatizados, processos ETL/ELT e arquiteturas serverless escaláveis. Transformo desafios complexos em sistemas seguros, de alta performance e grande impacto visual e tecnológico.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Competências Técnicas & Ferramentas
 
 - **Linguagens:** Python, TypeScript, JavaScript (ES6+), Java, SQL
-- **Engenharia de Dados & Analytics:** Apache Airflow, Spark, Pandas, BeautifulSoup, ETL/ELT, Data Lakes
-- **Cloud & Data (AWS):** Lambda, S3, API Gateway, Glue, Athena, Redshift, CloudWatch, EventBridge, DynamoDB
+- **Engenharia de Dados & Analytics:** Apache Airflow, Spark, Pandas, BeautifulSoup, ETL/ELT, Data Lakes e Data Warehouses
+- **Cloud & AWS:** Lambda, S3, API Gateway, Glue, Athena, Redshift, CloudWatch, EventBridge, DynamoDB, IAM
 - **DevOps & IaC:** Terraform, CloudFormation, Docker, GitHub Actions (CI/CD)
 - **Frontend:** React.js, Next.js (SSR/Static), Vite, Tailwind CSS
 - **Backend:** Node.js, Express, NestJS, Spring Boot
@@ -18,7 +18,13 @@ Sou um profissional com forte atuação em arquiteturas Cloud Native na AWS e de
 
 ---
 
-## 🏆 Certificações & Formação Complementar
+## 🧠 Competências Comportamentais (Soft Skills)
+
+`Mentalidade de Crescimento` • `Capacidade Analítica` • `Colaboração Interpessoal` • `Iniciativa e Autonomia` • `Raciocínio Crítico` • `Comunicação Objetiva` • `Gestão de Prioridades` • `Resiliência Estratégica`
+
+---
+
+## 🏆 Certificações Oficiais & Formação Complementar
 
 **☁️ Cloud & Infraestrutura (AWS)**
 - **AWS Certified Solutions Architect – Associate** | Amazon Web Services (2024)
@@ -36,29 +42,52 @@ Sou um profissional com forte atuação em arquiteturas Cloud Native na AWS e de
 
 ---
 
-## 💼 Experiências Profissionais em Destaque
+## 💼 Experiências Profissionais
 
 ### 💻 Desenvolvedor de Software Full Stack | *Smart Web Sistemas* (08/2025 – Atual)
 - Arquitetura e desenvolvimento de plataformas SaaS (Gestão Escolar e Ticketing) utilizando React e Node.js.
-- Otimização de performance de APIs e integração com serviços AWS para suportar picos de tráfego de +10k usuários simultâneos, além da modelagem de bancos de dados MySQL escaláveis.
+- Otimização de performance de APIs e integração com serviços AWS para suportar picos de tráfego de +10k usuários simultâneos.
+- Modelagem de bancos de dados MySQL escaláveis e implementação de camadas de cache.
 
 ### ⚙️ Estágio em Dados | *Capacita Brasil - UECE* (04/2025 – 08/2025)
-- Desenvolvimento de pipeline ETL automatizado em Python (BeautifulSoup e Pandas) para coleta e tratamento de dados XML.
-- Solução arquitetada em ambiente serverless na AWS (Lambda e S3), reduzindo o tempo de extração em cerca de 80% e otimizando o fluxo para modelagem preditiva.
+- Desenvolvimento de um pipeline ETL automatizado em Python para coleta e tratamento de dados XML, utilizando BeautifulSoup e Pandas.
+- Solução arquitetada em ambiente serverless na AWS (Lambda e S3), reduzindo o tempo de extração de dados em aproximadamente 80%.
+- Otimização do fluxo de dados para a etapa de modelagem preditiva, garantindo consistência e eficiência.
 
 ### 🌐 Desenvolvedor Full Stack | *2RSolutions Sistemas* (01/2024 – 07/2025)
-- Desenvolvimento de interfaces de alta performance com Next.js (foco em Web Vitals e SEO) e liderança técnica na entrega de produtos LegalTech.
-- Migração de infraestrutura legada para AWS Serverless, gerando economia significativa de custos operacionais.
+- Desenvolvimento de interfaces de alta performance com Next.js, focando em Web Vitals e SEO.
+- Migração de infraestrutura legada para AWS Serverless, resultando em economia de custos operacionais.
+- Liderança técnica na entrega de produtos LegalTech e sistemas de agendamento em tempo real.
 
 ### 🎓 Desenvolvedor Full Stack (Líder de Equipe) | *NPDS – UFC* (12/2025 – 03/2026)
-- Liderança técnica voluntária no desenvolvimento de uma plataforma interna para gestão de currículos acadêmicos.
-- Responsável pela arquitetura da stack Node.js, Express e React, garantindo integração eficiente com banco MySQL.
+- Liderança técnica voluntária de equipe no desenvolvimento de plataforma interna para gestão de currículos acadêmicos.
+- Responsável pela arquitetura da stack Node.js, Express e React, garantindo a integração eficiente com o banco de dados MySQL.
+
+---
+
+## 🏗️ Projetos & Arquiteturas em Destaque
+
+### ⚖️ LegalTech SaaS – Automação de Isenções Fiscais
+- **Stack:** Next.js, Node.js, AWS Lambda, S3, DynamoDB
+- **Impacto:** Plataforma completa para atuar como gestor de projetos focado na obtenção de isenções fiscais veiculares, gerando redução de 80% no tempo de processamento documental.
+
+### 🏥 Ecossistema de Saúde – Frontend Core
+- **Stack:** React, TypeScript, Vite, Tailwind CSS
+- **Impacto:** Desenvolvimento, componentização e evolução arquitetural do repositório `clinica-frontend`, focado em entregar uma interface modular, rápida e amigável para gestão de clínicas.
+
+### 🎓 Infraestrutura Cloud – Sistema de Gestão Escolar
+- **Stack:** Terraform, AWS (EC2, RDS, VPC, CloudFront)
+- **Resultado:** Provisionamento automatizado via IaC, segurança reforçada e entrega global de conteúdo de baixa latência.
+
+### 🤖 AI-Driven Data Pipeline
+- **Stack:** Python, Pandas, Scikit-Learn, AWS Glue, S3
+- **Objetivo:** Motor de processamento projetado para análise exploratória e modelagem preditiva avançada.
 
 ---
 
 ## 📚 Formação Acadêmica
 
-- **Ciência da Computação** – Universidade Federal do Ceará (UFC) | *02/2022 - Cursando*
+- **Ciência da Computação** – Universidade Federal do Ceará (UFC) | *02/2022 - Cursando* (6º Semestre, Campus Crateús)
 
 ---
 
