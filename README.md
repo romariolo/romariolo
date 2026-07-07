@@ -91,14 +91,6 @@ Profissional certificado na AWS com forte atuação em ambientes de computação
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romariolo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romariolo&layout=pie&theme=dracula&langs_count=6" />
-</p>
-
----
 
 ## 📫 Conecte-se comigo
 
